@@ -13,6 +13,7 @@ Should include the following services
 - blog
 - statistics / reports
 - forum?
+- VOIP phone (wish list)
 
 
 Repo is start of project
